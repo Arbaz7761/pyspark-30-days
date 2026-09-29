@@ -1,0 +1,12 @@
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+spark-warehouse/
+metastore_db/
+derby.log
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
